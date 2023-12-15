@@ -7155,3 +7155,13 @@ textarea.w-select {
 .w-webflow-badge {
   display: none !important;
 }
+
+#typed-text {
+  color: black;
+  margin: 0;
+  padding: 0;
+  position: absolute !important;
+  z-index: 5;
+  left: 5%;
+  text-align: start;
+}
