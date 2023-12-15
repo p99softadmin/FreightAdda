@@ -4041,7 +4041,7 @@ textarea.w-select {
 .text-block-17 {
   color: #fff;
   text-align: center;
-  margin-top: 6.5%;
+  margin-top: 3%;
   font-family: DM Sans, sans-serif;
   font-size: .8rem;
   font-weight: 500;
@@ -5435,7 +5435,7 @@ textarea.w-select {
     flex: 0 auto;
     justify-content: center;
     align-items: center;
-    margin: 0% 0% 5%;
+    margin: 0% 0% 0%;
     padding: 0%;
     display: flex;
     position: relative;
@@ -5443,7 +5443,7 @@ textarea.w-select {
     bottom: 0;
     left: 0;
     right: 0;
-    transform: perspective(2000px)translate3d(0, 0%, -75px);
+    transform: perspective(2000px)translate3d(0, 0%, 0);
   }
 
   .pricecard.premium.selected.not,
@@ -5497,7 +5497,7 @@ textarea.w-select {
     background-color: #0035f1;
     justify-content: space-between;
     align-items: center;
-    padding-top: 10%;
+    padding-top: 5%;
     transform: perspective(2000px)translate(0%);
   }
 
@@ -5544,7 +5544,7 @@ textarea.w-select {
     height: auto;
     max-width: none;
     grid-column-gap: 2%;
-    grid-row-gap: 2%;
+    grid-row-gap: 1%;
     border-left: 0 solid rgba(0, 0, 0, .69);
     flex-direction: column;
     flex: auto;
@@ -6420,6 +6420,7 @@ textarea.w-select {
   }
 
   .footer {
+    height: auto;
     padding: 0% 0% 1% 1%;
   }
 
@@ -6818,7 +6819,7 @@ textarea.w-select {
   .pricecard {
     height: auto;
     border-radius: 4vmin;
-    transform: perspective(2000px)translate3d(0, 0%, -75px);
+    transform: perspective(2000px)translate3d(0, 0%, 0);
   }
 
   .pricecard.selected {
@@ -7070,6 +7071,7 @@ textarea.w-select {
   }
 
   .footer {
+    height: auto;
     padding-left: 2%;
     padding-right: 2%;
   }
