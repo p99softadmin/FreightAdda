@@ -3317,7 +3317,7 @@ textarea.w-select {
 
 .list-item {
   color: #fff;
-  background-image: url("https://assets-global.website-files.com/654ccda9dec9ac138b0839e2/65548fea8974a385ea99ff4b_tick.svg");
+  background-image: url("assets/images/65548fea8974a385ea99ff4b_tick.svg");
   background-position: 2.5%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -3610,7 +3610,7 @@ textarea.w-select {
 }
 
 .link-block {
-  background-image: url("https://assets-global.website-files.com/654ccda9dec9ac138b0839e2/6555be250f335e07796ec0f7_rightarrow.svg");
+  background-image: url("assets/images/6555be250f335e07796ec0f7_rightarrow.svg");
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: auto;
